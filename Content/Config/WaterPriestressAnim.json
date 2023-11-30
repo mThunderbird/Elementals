@@ -1,0 +1,13 @@
+{
+  "idle": {
+    "frameCount": "8",
+    "frameWidth": "96",
+    "frameChangeSpeed": "100",
+    "loop": "true",
+    "animFolder": "Assets\\Heroes\\WaterPriestress\\idle_",
+    "srcRect": [ 128, 88, 32, 40]
+  },
+  "walk": {
+
+  }
+}
